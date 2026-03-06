@@ -1,4 +1,3 @@
-# Facial-Recognition-Attendance-System-Using-Deep-Learning
 # 🎯 Facial Recognition Attendance System Using Deep Learning
 
 A smart **attendance management system** that automatically marks attendance using **facial recognition technology**.
